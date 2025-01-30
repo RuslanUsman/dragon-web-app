@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dragon-web-app/static/css/main.76b645df.css",
-    "main.js": "/dragon-web-app/static/js/main.4ccaee3d.js",
+    "main.css": "/dragon-web-app/static/css/main.5350d98f.css",
+    "main.js": "/dragon-web-app/static/js/main.d8154fe8.js",
     "static/media/fonresultat.jpg": "/dragon-web-app/static/media/fonresultat.b064071e590023d1bdd1.jpg",
     "static/media/fonmenu.jpg": "/dragon-web-app/static/media/fonmenu.5523a626217e6931ee14.jpg",
     "index.html": "/dragon-web-app/index.html",
-    "main.76b645df.css.map": "/dragon-web-app/static/css/main.76b645df.css.map",
-    "main.4ccaee3d.js.map": "/dragon-web-app/static/js/main.4ccaee3d.js.map"
+    "main.5350d98f.css.map": "/dragon-web-app/static/css/main.5350d98f.css.map",
+    "main.d8154fe8.js.map": "/dragon-web-app/static/js/main.d8154fe8.js.map"
   },
   "entrypoints": [
-    "static/css/main.76b645df.css",
-    "static/js/main.4ccaee3d.js"
+    "static/css/main.5350d98f.css",
+    "static/js/main.d8154fe8.js"
   ]
 }
