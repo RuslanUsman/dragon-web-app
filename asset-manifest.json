@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dragon-web-app/static/css/main.390fd4a8.css",
+    "main.js": "/dragon-web-app/static/js/main.ae6fca83.js",
+    "index.html": "/dragon-web-app/index.html",
+    "main.390fd4a8.css.map": "/dragon-web-app/static/css/main.390fd4a8.css.map",
+    "main.ae6fca83.js.map": "/dragon-web-app/static/js/main.ae6fca83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.390fd4a8.css",
+    "static/js/main.ae6fca83.js"
+  ]
+}
